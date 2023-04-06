@@ -1,0 +1,7 @@
+site_name: "anishreacttest2"
+docs_dir: docs
+site_description: "anishreacttest2"
+nav:
+  - Introduction: index.md
+plugins:
+  - techdocs-core
